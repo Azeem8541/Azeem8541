@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **Apache Airflow, dbt, and cloud data warehousing (Snowflake, AWS)**
 - 💡 I love the full journey of data — from raw messy data to clean, analysis-ready tables to actual business decisions
 - 🤝 I'm open to collaborating on data projects and learning from the community
-- 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/azeemakhtar-java/) | [Email](azeemakhtar512005@gmail.com)
+- 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/azeemakhtar-java/) | [Email](mailto:azeemakhtar512005@gmail.com)
   
 
 ---
@@ -40,4 +40,4 @@ AI-powered Resume Analyzer built with Spring Boot, PostgreSQL/MySQL, and Google 
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/azeemakhtar-java/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](azeemakhtar512005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:azeemakhtar512005@gmail.com)
