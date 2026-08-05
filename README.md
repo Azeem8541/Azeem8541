@@ -1,6 +1,6 @@
 # Hi there, I'm [Azeem Akhtar] 👋
 
-📊 Data Analyst | 🔧 Transitioning into Data Engineering | Open to Opportunities
+📊 Data Analyst | 🔧 Transitioning into Junior Data Engineering | Open to Opportunities
 
 ---
 
