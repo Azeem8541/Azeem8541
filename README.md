@@ -29,9 +29,6 @@
 
 ## 📌 Featured Projects
 
---### 🍽️ [Zomato Real-Time AI Data Pipeline](https://github.com/Azeem8541/zomato-realtime-ai-data-pipeline)
-End-to-end data pipeline using Airflow, dbt, and Snowflake — with AI-powered review sentiment enrichment, a RAG chatbot, and a text-to-SQL assistant. Demonstrates the full path from raw data to business-ready insights.
-
 ### 🍽️ [Data Analysis Project](https://github.com/Azeem8541/Data-Analysis-Python-SQL-PowerBI)
 Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
 
