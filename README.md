@@ -29,6 +29,9 @@
 
 ## 📌 Featured Projects
 
+### 🍽️ [Netflix DBT Project](https://github.com/Azeem8541/netflix-dbt-project)
+End-to-end dbt project transforming Netflix/MovieLens data into dimension, fact, and mart models on Snowflake — with snapshots, tests, and documentation.
+
 ### 🍽️ [Data Analysis Project](https://github.com/Azeem8541/Data-Analysis-Python-SQL-PowerBI)
 Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
 
