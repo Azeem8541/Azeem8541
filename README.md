@@ -32,14 +32,14 @@
 ### 🍽️ [Netflix DBT Project](https://github.com/Azeem8541/netflix-dbt-project)
 End-to-end dbt project transforming Netflix/MovieLens data into dimension, fact, and mart models on Snowflake — with snapshots, tests, and documentation.
 
+### 🍽️ [Fake Store ETL Pipeline](https://github.com/Azeem8541/fake-store-etl-pipeline)
+ETL pipeline: Fake Store API → pandas → PostgreSQL
+
 ### 🍽️ [Data Analysis Project](https://github.com/Azeem8541/Data-Analysis-Python-SQL-PowerBI)
 Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
 
 ### 🍽️ [Python Libraries](https://github.com/Azeem8541/Python-Libraries)
 Deep-dive Jupyter notebooks covering Pandas, NumPy & Matplotlib — real-world data analysis & visualization using the Superstore dataset.
-
-### 📊 [Ai-Resume-Analyzer](https://github.com/Azeem8541/AI_Resume_Analyzer)
-AI-powered Resume Analyzer built with Spring Boot, PostgreSQL/MySQL, and Google Gemini API. Handles resume data extraction, ATS scoring logic, and structured data storage — combining backend development with data processing.
 
 ---
 
